@@ -1,11 +1,11 @@
 
 img {
-    align-content: center;
+    margin:auto;
     height: auto;
     width: 200px;
     position: sticky;
-    left:428px;
-    border:1px solid black}
+    border:1px solid black;
+    display: block}
 
 
 div.align-center {
