@@ -1,10 +1,12 @@
 
 img {
+    align-content: center;
     height: auto;
-    width: 180px;
+    width: 200px;
     position: sticky;
-    left:200px;
+    left:425px;
     border:1px solid black}
+
 
 div.align-center {
     text-align: center;}
