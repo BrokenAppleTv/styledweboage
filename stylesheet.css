@@ -1,0 +1,15 @@
+
+img {
+    height: auto;
+    width: 180px;
+    position: sticky;
+    left:200px;
+    border:1px solid black}
+
+div.align-center {
+    text-align: center;}
+
+ul.centre {
+display: inline-block;
+    text-align: center;
+    color: blue;}
